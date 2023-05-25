@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&family=Source+Code+Pro:wght@200&display=swap');
+
+body{
+    font-family: 'Secular One', sans-serif; 
+            
+}
+img{
+    
+    width: 300px;
+    height: 300px;
+    
+}
+
+.pagina-principal{
+    font-family:'Secular One', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    text-decoration: blue;
+    font-style: initial;
+
+}
+
+.container-perfil-pessoal{
+    display: flex;
+    font-family:'Secular One', sans-serif;
+    font-size: xx-large;
+    color: darkblue;
+    justify-content: space-evenly;
+    
+}
+
+.rodape{
+    background-color: coral;
+    color: blue;
+}
+
